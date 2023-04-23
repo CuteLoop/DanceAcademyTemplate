@@ -1,5 +1,8 @@
-# CorazonLatino
-¡Bienvenido al repositorio de GitHub de Corazón Latino! Aquí encontrarás todo lo relacionado con el desarrollo de nuestra página web de clases de baile de ritmos latinos.
+# gym-typescript
 
-Está página web está inspirada en la siguiente templeta de on ed-roh.
-https://github.com/ed-roh/gym-typescript
+Build a Complete Typescript React Fitness Application for Beginners
+
+Video: https://www.youtube.com/watch?v=I2NNxr3WPDo
+
+For all related questions and discussions about this project, check out the discord:
+https://discord.gg/2FfPeEk2mX
