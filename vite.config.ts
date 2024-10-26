@@ -8,4 +8,8 @@ export default defineConfig({
   resolve: {
     alias: [{ find: "@", replacement: path.resolve(__dirname, "src") }],
   },
+  server: {
+    host: true,      // Allow Vite to listen on all IPs, making it accessible on Railway’s domain
+    port: 4173       // Port that Railway typically uses for Vite apps
+  }
 });
