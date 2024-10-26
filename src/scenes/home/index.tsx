@@ -37,16 +37,19 @@ const Home = ({ setSelectedPage }: Props) => {
               visible: { opacity: 1, x: 0 },
             }}
           >
-            <div className="relative">
-              <div className="before:absolute before:-top-20 before:-left-20 before:z-[-1] md:before:content-evolvetext">
-                <img alt="home-page-text" src={HomePageText} />
-              </div>
+          <div className="relative">
+          <div className="before:absolute before:top-1/2 before:left-[10%] before:-translate-y-1/2 before:scale-50 before:z-[-1] md:before:content-evolvetext">
+          <img alt="home-page-text" src={HomePageText} />
             </div>
+          </div>
+
+
 
             <p className="mt-8 text-sm">
-              Unrivaled Gym. Unparalleled Training Fitness Classes. World Class
-              Studios to get the Body Shapes That you Dream of.. Get Your Dream
-              Body Now.
+            Discover the joy of dance!
+             we bring people together through dancing,
+             creating a space to connect, express, and feel alive.
+              Join us and experience dance like never before.
             </p>
           </motion.div>
 

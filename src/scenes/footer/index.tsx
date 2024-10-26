@@ -9,19 +9,21 @@ const Footer = () => {
         
         {/* Logo and Description */}
         <div className="basis-1/2">
-          <img alt="logo" src={Logo} className="w-32 h-auto" />
+        <p className="text-md font-semibold text-primary-500 leading-tight">
+              Sparks of<br />Connection
+        </p>
           <p className="my-5">
             Lorem vitae ut augue auctor faucibus eget eget ut libero. Elementum
             purus et arcu massa dictum condimentum. Augue scelerisque iaculis
             orci ut habitant laoreet.
           </p>
-          <p>© Evogym All Rights Reserved.</p>
+          <p>© Sparks of Connection All Rights Reserved.</p>
         </div>
         
         {/* Quick Links */}
         <div className="basis-1/4">
           <h4 className="font-bold">Links</h4>
-          <p className="my-5">Massa orci senectus</p>
+          <p className="my-5">Esta Noche Bailamos</p>
           <p className="my-5">Et gravida id et etiam</p>
           <p>Ullamcorper vivamus</p>
         </div>
