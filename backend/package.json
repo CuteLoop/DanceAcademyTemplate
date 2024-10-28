@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend server for Sparks of Connection Dance Academy",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "ts-node src/index.ts",
+    "start": "node dist/index.js",
+    "build": "tsc"
+  },
+  "keywords": ["express", "typescript", "backend", "mongodb", "mongoose"],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.7.3"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.8.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
