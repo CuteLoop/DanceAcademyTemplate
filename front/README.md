@@ -1,8 +1,24 @@
-# gym-typescript
+# Dance Gym Typescript Frontend
 
-Build a Complete Typescript React Fitness Application for Beginners
+Welcome to the frontend of the Dance Gym Typescript project!
 
-Video: https://www.youtube.com/watch?v=I2NNxr3WPDo
+## Getting Started
 
-For all related questions and discussions about this project, check out the discord:
-https://discord.gg/2FfPeEk2mX
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/Dance-gym-typescript.git
+    ```
+2. Navigate to the frontend directory:
+    ```bash
+    cd Dance-gym-typescript/front
+    ```
+3. Install dependencies:
+    ```bash
+    npm install
+    ```
+4. Start the development server:
+    ```bash
+    npm start
+    ```
